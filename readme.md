@@ -23,7 +23,9 @@ pip install -r requirements.txt
 ```
 
 Dont forget to fill line 15 - 22
+
 api_id and api_hash comes from going to my.telegram.org
+
 and the group_id can be got through a bot like https://t.me/MyChatInfoBot
 or through running a get_dialog in pyrogram
 
