@@ -1,0 +1,6 @@
+venv/
+*.session
+.env
+setenv.py
+trash/
+*.session-journal
