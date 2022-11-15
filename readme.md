@@ -22,6 +22,8 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
+Windows equivilant would be to install ffmpeg, youtube-dl and nodejs and make sure they are on the path.
+
 Dont forget to fill line 15 - 22
 
 api_id and api_hash comes from going to my.telegram.org
