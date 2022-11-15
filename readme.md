@@ -31,6 +31,6 @@ or through running a get_dialog in pyrogram
 
 ## MORE FEATURES?
 
-Saw a lot of other implementations of the same thing with a lot of new features. I have decided to write this to do exactly this specefically. If you contributing please make sure to implement features enhancing this one thing instead of adding new features.
+Saw a lot of other implementations of the same thing with a whole suite of features (Too much, really!). I have decided to write this to do exactly this specefically. If you are contributing please make sure to implement features enhancing this one thing instead of adding new features.
 
 Also I did not think it was reasonable to make the bot publicly work for everyone. Which is why my code is defining it to work on one group only. So you and your friends can enjoy the bot instead of getting performance drops because others are using it.
